@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mathias Bertrand</title>
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur ma page web!</h1>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Description personnelle</h2>
+            <p>Je m'apelle Mathias et je suis un éudiant de 3e année en informatique.<p>
+        </section>
+        
+        <section>
+            <h2>L'un de mes endroits favoris...</h2>
+            <img src="https://admin.onlyinyourstate.com/wp-content/uploads/sites/2/2021/07/2528799959_033e9473b2_k.jpg" alt="Drakes Island beach, Maine" width="700" height="469">
+        </section>
+        
+        <section>
+            <h2>Intérêts personelles</h2>
+            <ul>
+                <li>Programmation</li>
+                <li>Jeux vidéo</li>
+                <li>Cyclisme</li>
+                <li>Voyages</li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Site web recommandé</h2>
+            <p>Je recommande ce livre portant sur le développement personnel et professionel.
+            
+            <a 			href="https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People" target="_blank"></br>
+            The 7 Habits of Highly Effective People</a>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 - Mathias Bertrand</p>
+    </footer>
+</body>
+</html>
